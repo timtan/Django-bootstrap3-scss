@@ -9,7 +9,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-bootstrap3-sass',
-    version='3.2.0.1',
+    version='3.3.2.0',
     packages=['bootstrap3-sass'],
     include_package_data=True,
     license='BSD License',  # example license
