@@ -15,7 +15,7 @@ setup(
     license='BSD License',  # example license
     description='A simple Django app to import bootstrap3-sass.',
     long_description=README,
-    author='Your Name',
+    author='Tim Hsu',
     author_email='tim.yellow@gmail.com',
     install_requires = ['django-libsass','django-compressor'], 
     classifiers=[
