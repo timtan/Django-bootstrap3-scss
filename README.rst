@@ -19,7 +19,7 @@ Quick start
 
     INSTALLED_APPS = (
         ...
-        'bootstrap3-sass',
+        'bootstrap3_sass',
     )
 
 2. import the scss directly in your scss file
